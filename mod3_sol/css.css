@@ -1,0 +1,172 @@
+#header-nav
+{
+	background-color: #ba8eba;
+	border-radius: 0px;
+	border: 0;
+	width: 100%;
+	margin: 0px;
+	padding:0px;
+}
+
+
+
+.navbar .container
+{
+	margin: 0;
+	padding: 0px;
+}
+
+
+h1
+{
+	position: relative;
+	box-sizing: border-box;;
+	color: #800000;
+	font-size: 1em;
+	text-align: left;
+	margin: 0;
+	width: 100%;
+	padding-left: 20px;
+
+}
+
+.nav-brand a h1
+{
+	margin: 0;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+  text-shadow: 2px 2px #dfcbdf;
+}
+
+
+button
+{
+	float: right;
+}
+
+#nav-list a:hover 
+{
+	text-decoration: underline;
+}
+
+.OurMenu
+{
+	font-size:  40px;
+	margin-bottom: 20px;
+
+}
+
+
+.chicken.beef.sushi
+{
+	background-color:#539DC2;
+	text-align: center;
+	margin-bottom: 0px;
+	margin-top: 8px;
+	font-weight: 900;
+}
+
+
+
+p
+{
+	padding: 10px;
+	margin-top: 30px;
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.category
+{
+	position: relative;
+	box-sizing: border-box;
+	background-color: #E6E6FA;
+	border: 2px solid black;
+	margin-bottom: 20px;
+	padding: 5px;
+	width: 100%;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+.row
+{
+	box-sizing: border-box;
+	width: 100%;
+	margin: 0;
+	padding-left: 2%;
+	padding-right: 3%;
+}
+
+h4
+{
+	font-size: 30px;
+	padding-top: 8px;
+	position: relative;
+	text-align: center;
+	margin:0px;
+	margin-bottom: 0px;
+	width: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #8B008B;
+}
+
+
+#nav-list
+{
+	margin-top: 10px;
+}
+
+#nav-list a
+{
+	color: #000000;
+	text-align:center;
+}
+
+div a
+{
+	text-align: center;
+}
+
+
+#collapsable-nav
+{
+	background-color: #D8BFD8;
+
+}
+
+.menu1
+{
+	padding: 2px;
+	margin-top: : 2px;
+}
+
+button
+{
+	height: 40px;
+	width: 80px;
+}
+
+
+.glyphicon
+{
+	width: 40px;
+	height: auto;
+	font-family: "Lucida Console", Courier, monospace;
+	font-weight: bold;
+	padding: 2px;
+}
+
+#nav-list
+{
+	margin-bottom: 15px;
+	margin-top: 12px;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+
+
+
