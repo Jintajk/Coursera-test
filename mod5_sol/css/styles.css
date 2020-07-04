@@ -273,6 +273,7 @@ h3.menu-item-title {
 
 .container .jumbotron {
   background: url('../images/jumbotron_768.jpg') no-repeat;
+  height: 253px;
 }
 
 
@@ -377,3 +378,6 @@ h3.menu-item-title {
     width: 100%;
   }
 }
+
+
+
